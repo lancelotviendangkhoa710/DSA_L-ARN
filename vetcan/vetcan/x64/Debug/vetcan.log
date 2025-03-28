@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\Admin\Desktop\DSA-uit\vetcan\vetcan\main.cpp(4,10): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Admin\Desktop\DSA-uit\vetcan\vetcan\main.cpp(22,7): error C2086: 'int *a': redefinition
+      C:\Users\Admin\Desktop\DSA-uit\vetcan\vetcan\main.cpp(21,7):
+      see declaration of 'a'
+  

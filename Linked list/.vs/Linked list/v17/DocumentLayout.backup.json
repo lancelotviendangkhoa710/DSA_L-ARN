@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\DSA-uit\\Linked list\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{68DD4820-2E76-4AB4-B171-D47B34D4ABED}|Linked list\\Linked list.vcxproj|C:\\Users\\Admin\\Desktop\\DSA-uit\\Linked list\\Linked list\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{68DD4820-2E76-4AB4-B171-D47B34D4ABED}|Linked list\\Linked list.vcxproj|solutionrelative:Linked list\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\DSA-uit\\Linked list\\Linked list\\main.cpp",
+              "RelativeDocumentMoniker": "Linked list\\main.cpp",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\DSA-uit\\Linked list\\Linked list\\main.cpp",
+              "RelativeToolTip": "Linked list\\main.cpp",
+              "ViewState": "AgIAADIAAAAAAAAAAAAIwMgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-17T03:55:07.292Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

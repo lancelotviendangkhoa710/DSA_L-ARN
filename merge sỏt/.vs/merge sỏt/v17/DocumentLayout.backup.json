@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\DSA-uit\\merge s\u1ECFt\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A608C7E3-D130-4204-872D-F51141229024}|merge s\u1ECFt\\merge s\u1ECFt.vcxproj|C:\\Users\\Admin\\Desktop\\DSA-uit\\merge s\u1ECFt\\merge s\u1ECFt\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A608C7E3-D130-4204-872D-F51141229024}|merge s\u1ECFt\\merge s\u1ECFt.vcxproj|solutionrelative:merge s\u1ECFt\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\DSA-uit\\merge s\u1ECFt\\merge s\u1ECFt\\main.cpp",
+              "RelativeDocumentMoniker": "merge s\u1ECFt\\main.cpp",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\DSA-uit\\merge s\u1ECFt\\merge s\u1ECFt\\main.cpp",
+              "RelativeToolTip": "merge s\u1ECFt\\main.cpp",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-27T15:29:41.558Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
